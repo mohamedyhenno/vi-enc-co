@@ -8,7 +8,7 @@ SUPPORT_LINK = "https://t.me/+uPg3TPNFuckwMDU0"
 
 info_text = "**Tʜɪѕ Bᴏᴛ Iѕ Dᴇᴠᴇʟᴏᴘᴇᴅ Bʏ @A7_SYR**"   
 
-help_text = """**Vɪᴅᴇᴏ Eɴᴄᴏᴅᴇʀ**
+help_text = """**Vɪᴅᴇᴏ Cᴏᴍᴘʀᴇѕѕ**
 
 • `HEVC COMPRESS` - **Nᴇɢʟɪɢɪʙʟᴇ Lᴏѕѕ Cᴏᴍᴘʀᴇѕѕɪᴏɴ**"""
 
